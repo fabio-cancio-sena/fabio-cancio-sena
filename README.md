@@ -1,6 +1,11 @@
-### Hi there 👋
+Resume
+
+
+Machine Learning Engineer | Computer Vision | Natural Language Processing | Recommender Systems | AWS SageMaker | GCP AI Platform | Tensorflow | Spark | Python | C and C++ | Java 
+
 
 <!--
+
 **fabio-cancio-sena/fabio-cancio-sena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 👋
 -->
