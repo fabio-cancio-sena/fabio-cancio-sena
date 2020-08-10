@@ -22,8 +22,7 @@ Main technologies:
 
 # Experience 
 
-#### behup.io
-#### Machine Learning Engineer 
+#### behup.io <br> Machine Learning Engineer 
 > *July 2017 - Present* 
 > *São Paulo Area, Brazil*
 - Led the communication strategy, helping employees prioritize projects, facilitating collaboration, supporting career development. 
