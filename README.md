@@ -22,8 +22,6 @@ Main technologies:
 
 # Experience 
 
-<hr>
-
 #### behup.io
 #### Machine Learning Engineer 
 > *July 2017 - Present* 
