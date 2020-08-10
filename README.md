@@ -20,6 +20,12 @@ Main technologies:
 
 <hr>
 
+# Skills
+
+> ✓ Machine Learning ✓ Python (Programming Language) ✓ Data Science ✓ Artificial Intelligence (AI) ✓ Data Mining ✓ Deep Learning ✓ Python ✓ C++ ✓ Java ✓ SQL ✓ Software Development ✓ C (Programming Language) ✓ Computer Vision ✓ TensorFlow ✓ Natural Language Processing (NLP) ✓ Image Processing ✓ Leadership ✓ Communication
+
+<hr>
+
 # Experience 
 
 #### behup.io <br> Machine Learning Engineer 
@@ -41,8 +47,7 @@ automated insights in just a few hours using NLP, deep learning and other modeli
 - Led the team to develop data products and predictive models based on pool and social media data 
 - Worked with the company executives on prioritization, budget definition, and execution of related business and technology initiatives for company internationalization and fundraising for new projects 
 
-#### behup.io
-#### Data Scientist 
+#### behup.io <br> Data Scientist 
 > April 2016 - June 2017 <br>
 > Brasília Area, Brazil 
 - Developed big data products using Hadoop, Spark, Elastic Search, MongoDB, and Apache Drill. 
@@ -50,8 +55,7 @@ automated insights in just a few hours using NLP, deep learning and other modeli
 
 <hr>
 
-#### Luiza AI
-#### Machine Learning Engineer 
+#### Luiza AI <br> Machine Learning Engineer 
 > November 2017 - July 2018 <br> 
 > Edmonton, Alberta, Canada 
 - Developed an end-to-end machine learning pipeline for Luiza.ai. 
@@ -60,18 +64,15 @@ automated insights in just a few hours using NLP, deep learning and other modeli
 
 <hr>
 
-#### SONDA Brasil
-#### Oracle Middleware Architect 
-> August 2014 - March 2016 <br>
-> Brasília Area, Brazil 
+#### SONDA Brasil <br> Oracle Middleware Architect 
+*August 2014 - March 2016 <br> Brasília Area, Brazil*
 - Developed the audit system that met the criteria for reducing the auto industry's production taxes.
 - Installed and configured the infrastructure of WebLogic servers for BPM, SOA, Web Center and BI Oracle Products
 - Implemented the authentication and authorization for system access using Digital Certification eCPF and eCNPJ - ICP-Brasil in WebLogic and ADF platform.
 
 <hr>
 
-#### CDS - Condomínio de Soluções 
-#### Oracle Middleware Architect
+#### CDS - Condomínio de Soluções <br> Oracle Middleware Architect
 > November 2013 - August 2014 <br>
 > Brasília Area, Brazil 
 - Led tech team and develop BPM and SOA solutions for the The State Institute of Environment of Rio de Janeiro (INEA - RJ) , Secretariat of Management and Planning of Goiás State (SEGPLAN - GO) and São Paulo. The process automation significantly reduced the costs and time of the activities. 
@@ -152,6 +153,15 @@ Development of Proofs of Concepts. Support for development teams.
 > February 1993 - March 1999 <br> 
 > Brasília, Federal District, Brazil 
 - Defined the software architecture, developed of software using Oracle platforms like Oracle Designer, Web with PL/SQL, Forms, Reports, and desktop apps using Delphi 5. 
+
+<hr>
+
+# Education
+
+#### IGTI (2016 - 2017) <br> Master's degree, Data Science, Machine Learning and Big Data
+#### DataCamp  (2016 - 2017) <br> Specialization, Data Science and Machine Learning 
+#### Centro Universitário Euroamericano (2000 - 2004) <br> Bachelor's degree, Bachelor's Degree in Information Systems ·  
+#### Johns Hopkins (2018 - 2018) <br> Specialization, Data Science Management 
 
 <!--
 
