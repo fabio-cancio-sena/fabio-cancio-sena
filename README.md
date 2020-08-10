@@ -27,11 +27,14 @@ Main technologies:
 <hr>
 
 ## Experience 
+
+<hr>
+
 ### behup.io
-4 years 5 months 
+*4 years 5 months* 
 #### Machine Learning Engineer 
-> July 2017 - Present (3 years 2 months) 
-> São Paulo Area, Brazil 
+> *July 2017 - Present (3 years 2 months)* 
+> *São Paulo Area, Brazil*
 - Led the communication strategy, helping employees prioritize projects, facilitating collaboration, supporting career development. 
 - Participated as a member of the board of directors, leadership, technology  and product company's groups, helping in planning and development of new 
 products using Design Thinking, LEAN, Scrum, Artificial Intelligence and Neurosciences 
@@ -53,6 +56,8 @@ automated insights in just a few hours using NLP, deep learning and other modeli
 - Developed big data products using Hadoop, Spark, Elastic Search, MongoDB, and Apache Drill. 
 - Built machine learning models for predictions and insights 
 
+<hr>
+
 ### Luiza AI
 #### Machine Learning Engineer 
 > November 2017 - July 2018 (9 months) 
@@ -61,6 +66,8 @@ automated insights in just a few hours using NLP, deep learning and other modeli
 - Devekoped credit default risk based on contract information and back the client’s psychological profile using XBoost algorithm.
 - Developed a recommender system based on clusters of customers with similar behaviour on social media using, location, gender, posts and interactions on specific web pages. The solution used RecommenderLab R library. [http://www.luiza.ai/]
 
+<hr>
+
 ### SONDA Brasil
 #### Oracle Middleware Architect 
 > August 2014 - March 2016 (1 year 8 months) 
@@ -68,23 +75,29 @@ automated insights in just a few hours using NLP, deep learning and other modeli
 - Developed the audit system that met the criteria for reducing the auto industry's production taxes.
 - Installed and configured the infrastructure of WebLogic servers for BPM, SOA, Web Center and BI Oracle Products
 - Implemented the authentication and authorization for system access using Digital Certification eCPF and eCNPJ - ICP-Brasil in WebLogic and ADF platform.
-### Ministério do Desenvolvimento Indústria e Comércio 
-- Developed the audit system that met the criteria for reducing the auto industry's production taxes. 
-- Installed and configured the infrastructure of WebLogic servers for BPM, SOA, Web Center and BI Oracle Products 
-- Implemented the authentication and authorization for system access using Digital Certification eCPF and eCNPJ - ICP-Brasil in WebLogic and ADF 
-platform. 
+
+<hr>
 
 ### CDS - Condomínio de Soluções 
 #### Oracle Middleware Architect
-> November 2013 - August 2014 (10 months) 
+> November 2013 - August 2014 (10 months) <br>
 > Brasília Area, Brazil 
-• Led tech team and develop BPM and SOA solutions for the The State Institute of Environment of Rio de Janeiro (INEA - RJ) , Secretariat of Management and Planning of Goiás State (SEGPLAN - GO) and São Paulo. The process automation significantly reduced the costs and time of the activities. 
-#### ITS - Integração Total de Soluções SOA and BPM Architect January 2013 - October 2013 (10 months) Brasília Area, Brazil 
-• Developed an IoT product that integrated RFID and inhouse asset control systems to automated assets tracking for Sabin Lab , Atlas lifts and Martins 
+- Led tech team and develop BPM and SOA solutions for the The State Institute of Environment of Rio de Janeiro (INEA - RJ) , Secretariat of Management and Planning of Goiás State (SEGPLAN - GO) and São Paulo. The process automation significantly reduced the costs and time of the activities. 
+
+<hr>
+
+### ITS - Integração Total de Soluções 
+#### Software Architect 
+> January 2013 - October 2013 (10 months) <br>
+> Brasília Area, Brazil 
+- Developed an IoT product that integrated RFID and inhouse asset control systems to automated assets tracking for Sabin Lab , Atlas lifts and Martins 
 Carrier 
+
+<hr>
+
 ### Teletronic Soluções Inteligentes
 #### Software Architect 
-> July 2011 - December 2012 (1 year 6 months)
+> July 2011 - December 2012 (1 year 6 months) <br>
 > Brasília Area, Brazil 
 - Developed an IoT product that integrated video streaming and RFID to track assets for the Federal District Regional Electoral Court and for Coca-Cola de 
 Recife Coca-Cola Factory and that automated acquisition, loan, maintenance, inventory and disposal of assets 
@@ -92,14 +105,27 @@ Organización de los Estados Americanos Software Architect February 2010 - Decem
 - Modeled the business process for Unified College Entrance Examination System (SiSU), University for All Program (ProUni) and Higher Education 
 Student Fund (FIES) using BPMN for the Brazilian Ministry of Education 
 - Designed the architecture of the systems and led the technical team 
-#### Universidade de Brasília Researcher
-> February 2008 - January 2010 (2 years) 
+
+<hr>
+
+### Universidade de Brasília
+#### Researcher
+> February 2008 - January 2010 (2 years) <br> 
 > Brasília Area, Brazil 
 - Designed the architecture of the software for managing Brazilian interstate transportation 
 - Academic research and implementation of POC using agents systems on an embedded platform 
-#### Foton SOA Architect and Product Owner April 2008 - March 2009 (1 year) Brasília Area, Brazil and Belo Horizonte Area, Brazil 
+
+<hr>
+
+### Foton 
+#### Tech Leader 
+> April 2008 - March 2009 (1 year) <br> 
+> Brasília Area, Brazil and Belo Horizonte Area, Brazil 
 - Integrated APEX Brasil systems using an SOA platform 
 - Integrated IPSEMG (Institute of Social Security of Minas Gerais State Government ) using an SOA platform 
+
+<hr>
+
 ### AgênciaClick 
 #### Product Owner 
 > December 2004 - January 2008 (3 years 2 months) 
@@ -107,12 +133,18 @@ Student Fund (FIES) using BPMN for the Brazilian Ministry of Education
 - Led of the SISAc and SIREf project team for SECOM and CAIXA
 priorities, scope, funding, and schedule; ensures that the product backlog is 
 visible, transparent, and clear. 
+
+<hr>
+
 ### Globalweb Corp
 #### Java Instructor
 > January 2000 - December 2005 (6 years)
 > Brasília, Federal District, Brazil 
 Official Oracle Java SE and J2EE Instructor. Courses taught in various classes of Java SE, J2EE Design Patterns, EJB, Web, Distributed Objects 
 and Network, Java Certification Workshop, OOAD and UML, Software Requirements, and RUP. 
+
+<hr>
+
 ### SONDA 
 #### Java Architect
 > January 1998 - February 2002 (4 years 2 months) 
@@ -121,12 +153,14 @@ and Network, Java Certification Workshop, OOAD and UML, Software Requirements, a
 Development of Proofs of Concepts. Support for development teams.
 - Lead CADSUS project for Health Minister. 
 - Developed a persistence frameworks, Web, Components, and code generators for productivity in the software factory. 
+
+<hr>
+
 ### Brazilian Army
 #### Software Architect 
 > February 1993 - March 1999 (6 years 2 months) 
 > Brasília, Federal District, Brazil 
 - Defined the software architecture, developed of software using Oracle platforms like Oracle Designer, Web with PL/SQL, Forms, Reports, and desktop apps using Delphi 5. 
-
 
 <!--
 
