@@ -64,6 +64,17 @@ automated insights in just a few hours using NLP, deep learning and other modeli
 
 <hr>
 
+# Education
+
+#### IGTI (2016 - 2017) <br> Master's degree, Data Science, Machine Learning and Big Data
+#### DataCamp  (2016 - 2017) <br> Specialization, Data Science and Machine Learning 
+#### Centro Universitário Euroamericano (2000 - 2004) <br> Bachelor's degree, Bachelor's Degree in Information Systems ·  
+#### Johns Hopkins (2018 - 2018) <br> Specialization, Data Science Management 
+
+<hr>
+
+# Other Experiences 
+
 #### SONDA Brasil <br> Oracle Middleware Architect 
 *August 2014 - March 2016 <br> Brasília Area, Brazil*
 - Developed the audit system that met the criteria for reducing the auto industry's production taxes.
@@ -154,14 +165,7 @@ Development of Proofs of Concepts. Support for development teams.
 > Brasília, Federal District, Brazil 
 - Defined the software architecture, developed of software using Oracle platforms like Oracle Designer, Web with PL/SQL, Forms, Reports, and desktop apps using Delphi 5. 
 
-<hr>
 
-# Education
-
-#### IGTI (2016 - 2017) <br> Master's degree, Data Science, Machine Learning and Big Data
-#### DataCamp  (2016 - 2017) <br> Specialization, Data Science and Machine Learning 
-#### Centro Universitário Euroamericano (2000 - 2004) <br> Bachelor's degree, Bachelor's Degree in Information Systems ·  
-#### Johns Hopkins (2018 - 2018) <br> Specialization, Data Science Management 
 
 <!--
 
