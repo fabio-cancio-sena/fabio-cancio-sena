@@ -21,7 +21,7 @@ Main technologies:
 
 # Skills
 
-> ✓ Machine Learning ✓ Python (Programming Language) ✓ Data Science ✓ Artificial Intelligence (AI) ✓ Data Mining ✓ Deep Learning ✓ Python ✓ C++ ✓ Java ✓ SQL ✓ Software Development ✓ C (Programming Language) ✓ Computer Vision ✓ TensorFlow ✓ Natural Language Processing (NLP) ✓ Image Processing ✓ Leadership ✓ Communication
+> ✓ Artificial Intelligence ✓ Machine Learning ✓ Deep Learning ✓ Data Science ✓ Python ✓ C/C++ ✓ Java ✓ SQL ✓ Software Development ✓ Computer Vision ✓ TensorFlow ✓ Natural Language Processing ✓ Cloud Computing ✓ Amazon Web Services (AWS) ✓ Google Cloud Platform (GCP) ✓ Leadership ✓ Communication
 
 <hr>
 
