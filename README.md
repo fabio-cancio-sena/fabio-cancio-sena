@@ -1,5 +1,4 @@
-# Fábio Sena
-> ✆ ++55 11 998110396 <br> ✉ fabio.cancio.sena@gmail.com <br> https://www.linkedin.com/in/fabiosenamachinelearningengineer/
+✆ ++55 11 998110396 <br> ✉ fabio.cancio.sena@gmail.com <br> https://www.linkedin.com/in/fabiosenamachinelearningengineer/
 
 <hr>
 
