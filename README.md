@@ -3,9 +3,8 @@ Hi, I’m Fábio Sena, an **Machine Learning Engineer** with **4½ years of expe
 Main technologies:
 - Classical Machine Learning
 - Deep Learning: Convolutional Neural Networks (CNN), Sequence Models, LSTM, GRU
-- Tensorflow 2
-- Scikit-learn
-- Cloud Computing: AWS SageMaker, Google Cloud AI Platform
+- Tensorflow 2, Keras, PyTorch, Scikit-learn
+- Cloud Computing: AWS SageMaker, Google Cloud AI Platform, Docker, Kubernetes, Kubeflow, MLflow
 - Python, Java, C and C++
 - Spark, PySpark
 - Computer Vision: Motion Detection, Object Recognition, Object Tracking, semantic segmentation, Feature Extraction, Feature Engineering, OpenCV, Scikit-image, PIL, Pillow
