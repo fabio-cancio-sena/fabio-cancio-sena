@@ -1,3 +1,8 @@
+# Fábio Sena
+> ✆ ++55 11 998110396 <br> ✉ fabio.cancio.sena@gmail.com <br> https://www.linkedin.com/in/fabiosenamachinelearningengineer/
+
+<hr>
+
 Hi, I’m Fábio Sena, an **Machine Learning Engineer** with **4½ years of experience in Machine Learning** and **27+ years in Software Development**. I have a passion for artificial intelligence and I’ve been helping companies create, develop, and put machine learning solutions on the production environment. I have a **Master's degree (MBA in Big Data and Data Science)** and a **Bachelor's degree in Computer Science**.
 
 Main technologies:
@@ -10,12 +15,6 @@ Main technologies:
 - Computer Vision: Motion Detection, Object Recognition, Object Tracking, semantic segmentation, Feature Extraction, Feature Engineering, OpenCV, Scikit-image, PIL, Pillow
 - Natural Language Processing
 - Recommender Systems
-
-✉ fabio.cancio.sena@gmail.com
-
-✆ ++55 11 998110396
-
-✆ Skype: fabio.cancio.sena 
 
 <hr>
 
