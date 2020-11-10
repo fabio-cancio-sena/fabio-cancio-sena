@@ -19,14 +19,21 @@ Main technologies:
 
 # Skills
 
-> ✓ Artificial Intelligence ✓ Machine Learning ✓ Deep Learning ✓ Data Science ✓ Python ✓ C/C++ ✓ Java ✓ SQL ✓ Software Development ✓ Computer Vision ✓ TensorFlow ✓ Natural Language Processing ✓ Cloud Computing ✓ Amazon Web Services (AWS) ✓ Google Cloud Platform (GCP) ✓ Leadership ✓ Communication
+> `Artificial`, `Intelligence`, `Machine Learning`, `Deep Learning`, `Data Science`, `Python`, `C/C++`, `Java`, `SQL`, `Software Development`, `Computer Vision`, `TensorFlow`, `PyTorch`, `ONNX`, `Natural Language Processing`, `Cloud Computing`, `Amazon Web Services (AWS)`, `Google Cloud Platform (GCP)`, `Leadership`, `Communication`
 
 <hr>
 
 # Experience 
 
+
+#### Appen <br> Machine Learning Engineer
+> *August 2020 - Present* 
+> *Campinas, Sao Paulo, Brazil*
+- Develop scalable machine learning models using microservices architecture, Docker containers, Tensorflow and Pytorch on AWS for computer vision and natural language processing domains
+- *Technologies*: `Python`, `Docker`, `Apache Kafka`, `Amazon S3`, `Tensorflow`, `Pytorch`, `ONNX`, `GIT`, `Jenkins`
+
 #### behup.io <br> Machine Learning Engineer 
-> *July 2017 - Present* 
+> *July 2017 - July 2020* 
 > *São Paulo Area, Brazil*
 - Led the communication strategy, helping employees prioritize projects, facilitating collaboration, supporting career development. 
 - Participated as a member of the board of directors, leadership, technology  and product company's groups, helping in planning and development of new 
