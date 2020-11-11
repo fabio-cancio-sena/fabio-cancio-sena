@@ -1,6 +1,6 @@
 ✆ ++55 11 998110396 <br> ✉ fabio.cancio.sena@gmail.com <br> https://www.linkedin.com/in/fabiosenamachinelearningengineer/
 
-<hr>
+---
 
 Hi, I’m Fábio Sena, an **Machine Learning Engineer** with **4½ years of experience in Machine Learning** and **27+ years in Software Development**. I have a passion for artificial intelligence and I’ve been helping companies create, develop, and put machine learning solutions on the production environment. I have a **Master's degree (MBA in Big Data and Data Science)** and a **Bachelor's degree in Computer Science**.
 
@@ -15,13 +15,13 @@ Main technologies:
 - Natural Language Processing
 - Recommender Systems
 
-<hr>
+---
 
 # Skills
 
 > `Artificial`, `Intelligence`, `Machine Learning`, `Deep Learning`, `Data Science`, `Python`, `C/C++`, `Java`, `SQL`, `Software Development`, `Computer Vision`, `TensorFlow`, `PyTorch`, `ONNX`, `Natural Language Processing`, `Cloud Computing`, `Amazon Web Services (AWS)`, `Google Cloud Platform (GCP)`, `Leadership`, `Communication`
 
-<hr>
+---
 
 # Experience 
 
@@ -57,7 +57,7 @@ automated insights in just a few hours using NLP, deep learning and other modeli
 - Developed big data products using Hadoop, Spark, Elastic Search, MongoDB, and Apache Drill. 
 - Built machine learning models for predictions and insights 
 
-<hr>
+---
 
 #### Luiza AI <br> Machine Learning Engineer 
 > November 2017 - July 2018 <br> 
@@ -66,7 +66,7 @@ automated insights in just a few hours using NLP, deep learning and other modeli
 - Devekoped credit default risk based on contract information and back the client’s psychological profile using XBoost algorithm.
 - Developed a recommender system based on clusters of customers with similar behaviour on social media using, location, gender, posts and interactions on specific web pages. The solution used RecommenderLab R library. [http://www.luiza.ai/]
 
-<hr>
+---
 
 # Education
 
@@ -75,7 +75,7 @@ automated insights in just a few hours using NLP, deep learning and other modeli
 #### Centro Universitário Euroamericano (2000 - 2004) <br> Bachelor's degree, Bachelor's Degree in Information Systems ·  
 #### Johns Hopkins (2018 - 2018) <br> Specialization, Data Science Management 
 
-<hr>
+---
 
 # Other Experiences 
 
@@ -85,14 +85,14 @@ automated insights in just a few hours using NLP, deep learning and other modeli
 - Installed and configured the infrastructure of WebLogic servers for BPM, SOA, Web Center and BI Oracle Products
 - Implemented the authentication and authorization for system access using Digital Certification eCPF and eCNPJ - ICP-Brasil in WebLogic and ADF platform.
 
-<hr>
+---
 
 #### CDS - Condomínio de Soluções <br> Oracle Middleware Architect
 > November 2013 - August 2014 <br>
 > Brasília Area, Brazil 
 - Led tech team and develop BPM and SOA solutions for the The State Institute of Environment of Rio de Janeiro (INEA - RJ) , Secretariat of Management and Planning of Goiás State (SEGPLAN - GO) and São Paulo. The process automation significantly reduced the costs and time of the activities. 
 
-<hr>
+---
 
 #### ITS - Integração Total de Soluções 
 #### Software Architect 
@@ -101,7 +101,7 @@ automated insights in just a few hours using NLP, deep learning and other modeli
 - Developed an IoT product that integrated RFID and inhouse asset control systems to automated assets tracking for Sabin Lab , Atlas lifts and Martins 
 Carrier 
 
-<hr>
+---
 
 #### Teletronic Soluções Inteligentes
 #### Software Architect 
@@ -113,7 +113,7 @@ Organización de los Estados Americanos Software Architect February 2010 - Decem
 - Modeled the business process for Unified College Entrance Examination System (SiSU), University for All Program (ProUni) and Higher Education Student Fund (FIES) using BPMN for the Brazilian Ministry of Education 
 - Designed the architecture of the systems and led the technical team 
 
-<hr>
+---
 
 #### Universidade de Brasília
 #### Researcher
@@ -122,7 +122,7 @@ Organización de los Estados Americanos Software Architect February 2010 - Decem
 - Designed the architecture of the software for managing Brazilian interstate transportation 
 - Academic research and implementation of POC using agents systems on an embedded platform 
 
-<hr>
+---
 
 #### Foton 
 #### Tech Leader 
@@ -131,7 +131,7 @@ Organización de los Estados Americanos Software Architect February 2010 - Decem
 - Integrated APEX Brasil systems using an SOA platform 
 - Integrated IPSEMG (Institute of Social Security of Minas Gerais State Government ) using an SOA platform 
 
-<hr>
+---
 
 #### AgênciaClick 
 #### Product Owner 
@@ -141,7 +141,7 @@ Organización de los Estados Americanos Software Architect February 2010 - Decem
 priorities, scope, funding, and schedule; ensures that the product backlog is 
 visible, transparent, and clear. 
 
-<hr>
+---
 
 #### Globalweb Corp
 #### Java Instructor
@@ -150,7 +150,7 @@ visible, transparent, and clear.
 Official Oracle Java SE and J2EE Instructor. Courses taught in various classes of Java SE, J2EE Design Patterns, EJB, Web, Distributed Objects 
 and Network, Java Certification Workshop, OOAD and UML, Software Requirements, and RUP. 
 
-<hr>
+---
 
 #### SONDA 
 #### Java Architect
@@ -161,7 +161,7 @@ Development of Proofs of Concepts. Support for development teams.
 - Lead CADSUS project for Health Minister. 
 - Developed a persistence frameworks, Web, Components, and code generators for productivity in the software factory. 
 
-<hr>
+---
 
 #### Brazilian Army
 #### Software Architect 
