@@ -2,7 +2,7 @@
 
 ---
 
-Hi, I’m Fábio Sena, an **Machine Learning Engineer** with **4½ years of experience in Machine Learning** and **27+ years in Software Development**. I have a passion for artificial intelligence and I’ve been helping companies create, develop, and put machine learning solutions on the production environment. I have a **Master's degree (MBA in Big Data and Data Science)** and a **Bachelor's degree in Computer Science**.
+Hi, I’m Fábio Sena, an **Machine Learning Engineer** with **5 years of experience in Machine Learning** and **28 years in Software Development**. I have a passion for artificial intelligence and I’ve been helping companies create, develop, and put machine learning solutions on the production environment. I have a **Master's degree (MBA in Big Data and Data Science)** and a **Bachelor's degree in Computer Science**.
 
 Main technologies:
 - Classical Machine Learning
