@@ -1,20 +1,11 @@
-✆ ++55 11 998110396 <br> ✉ fabio.cancio.sena@gmail.com <br> https://www.linkedin.com/in/fabiosenamachinelearningengineer/
+✆ ++55 11 998110396 <br> ✉ fabio.cancio.sena@gmail.com <br> [https://www.linkedin.com/in/fabiosenamachinelearningengineer/](https://www.linkedin.com/in/fabio-sena-mlengineer/)
 
 ---
 
-Hi, I’m Fábio Sena, an **Machine Learning Engineer** with **5 years of experience in Machine Learning** and **28 years in Software Development**. I have a passion for artificial intelligence and I’ve been helping companies create, develop, and put machine learning solutions on the production environment. I have a **Master's degree (MBA in Big Data and Data Science)** and a **Bachelor's degree in Computer Science**.
+Experienced Machine Learning Engineer with 7 years in the field and 20+ years in Software Engineering. Holds a Master's in Data Science and Machine Learning (MBA) and a Bachelor's in Information Systems. Strong programming skills, particularly in Python, AWS Cloud, and frameworks such as TensorFlow, PyTorch, Scikit-learn, Detectron2, and HuggingFace Transformers. Expertise in classical machine learning, deep learning, computer vision, and natural language processing. Proven track record of success in various projects including image deduplication, batch inference, transfer learning, audio and speech processing, predictive modeling, and recommender systems. Fluent in English and Portuguese, eager to learn new technologies and techniques. Seeking to contribute to a leading company in the industry as a Machine Learning Engineer.
+Languages: • Fluent English • Native Portuguese 
 
-Main technologies:
-- Classical Machine Learning
-- Deep Learning: Convolutional Neural Networks (CNN), Sequence Models, LSTM, GRU
-- Tensorflow 2, Keras, PyTorch, Scikit-learn
-- Cloud Computing: AWS SageMaker, Google Cloud AI Platform, Docker, Kubernetes, Kubeflow, MLflow
-- Python, Java, C and C++
-- Spark, PySpark
-- Computer Vision: Motion Detection, Object Recognition, Object Tracking, semantic segmentation, Feature Extraction, Feature Engineering, OpenCV, Scikit-image, PIL, Pillow
-- Natural Language Processing
-- Recommender Systems
-
+Technologies: • AWS Cloud: EC2, ECS, ECR, EKS, S3, DynamoDB, EventBridge • Machine Learning Frameworks: TensorFlow, PyTorch, HuggingFace Transformers, spaCy, NLTK, Kaldi ASR, Detectron2, Tesseract, CRAFT,  MMDetection3D, MMCV • Machine Learning and Data Tools: Sagemaker, Redis Vector Search, Spark/PySpark • Programming Languages: R, Python • Databases: PostgreSQL, MySQL • Tools: GIT, Jenkins • • Audio Processing: pydub, pyannote.audio
 ---
 
 # Skills
