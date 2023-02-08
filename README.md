@@ -3,14 +3,15 @@
 ---
 
 Experienced Machine Learning Engineer with 7 years in the field and 20+ years in Software Engineering. Holds a Master's in Data Science and Machine Learning (MBA) and a Bachelor's in Information Systems. Strong programming skills, particularly in Python, AWS Cloud, and frameworks such as TensorFlow, PyTorch, Scikit-learn, Detectron2, and HuggingFace Transformers. Expertise in classical machine learning, deep learning, computer vision, and natural language processing. Proven track record of success in various projects including image deduplication, batch inference, transfer learning, audio and speech processing, predictive modeling, and recommender systems. Fluent in English and Portuguese, eager to learn new technologies and techniques. Seeking to contribute to a leading company in the industry as a Machine Learning Engineer.
-Languages: • Fluent English • Native Portuguese 
 
-Technologies: • AWS Cloud: EC2, ECS, ECR, EKS, S3, DynamoDB, EventBridge • Machine Learning Frameworks: TensorFlow, PyTorch, HuggingFace Transformers, spaCy, NLTK, Kaldi ASR, Detectron2, Tesseract, CRAFT,  MMDetection3D, MMCV • Machine Learning and Data Tools: Sagemaker, Redis Vector Search, Spark/PySpark • Programming Languages: R, Python • Databases: PostgreSQL, MySQL • Tools: GIT, Jenkins • • Audio Processing: pydub, pyannote.audio
+Languages: `Fluent English`  `Native Portuguese` `Intermediate Spanish` 
+
 ---
 
-# Skills
+# Skills & Technologies
 
-> `Artificial`, `Intelligence`, `Machine Learning`, `Deep Learning`, `Data Science`, `Python`, `C/C++`, `Java`, `SQL`, `Software Development`, `Computer Vision`, `TensorFlow`, `PyTorch`, `ONNX`, `Natural Language Processing`, `Cloud Computing`, `Amazon Web Services (AWS)`, `Google Cloud Platform (GCP)`, `Leadership`, `Communication`
+> `AWS Cloud: EC2, ECS, ECR, EKS, S3, DynamoDB, EventBridge` • `Machine Learning Frameworks: TensorFlow, PyTorch, HuggingFace Transformers, spaCy, NLTK, Kaldi ASR, Detectron2, Tesseract, CRAFT, MMDetection3D, MMCV` • `Machine Learning and Data Tools: Sagemaker, Redis Vector Search, Spark/PySpark` • `Programming Languages: R, Python` • `Databases: PostgreSQL, MySQL` • `Tools: GIT, Jenkins • Audio Processing: pydub, pyannote.audio`
+
 
 ---
 
