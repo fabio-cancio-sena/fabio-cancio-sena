@@ -1,180 +1,64 @@
-✆ ++55 11 998110396 <br> ✉ fabio.cancio.sena@gmail.com <br> [https://www.linkedin.com/in/fabiosenamachinelearningengineer/](https://www.linkedin.com/in/fabio-sena-mlengineer/)
-
----
-
-Experienced Machine Learning Engineer with 7 years in the field and 20+ years in Software Engineering. Holds a Master's in Data Science and Machine Learning (MBA) and a Bachelor's in Information Systems. Strong programming skills, particularly in Python, AWS Cloud, and frameworks such as TensorFlow, PyTorch, Scikit-learn, Detectron2, and HuggingFace Transformers. Expertise in classical machine learning, deep learning, computer vision, and natural language processing. Proven track record of success in various projects including image deduplication, batch inference, transfer learning, audio and speech processing, predictive modeling, and recommender systems. Fluent in English and Portuguese, eager to learn new technologies and techniques. Seeking to contribute to a leading company in the industry as a Machine Learning Engineer.
-
-Languages: `Fluent English`  `Native Portuguese` `Intermediate Spanish` 
-
----
-
-# Skills & Technologies
-
-> `AWS Cloud: EC2, ECS, ECR, EKS, S3, DynamoDB, EventBridge` • `Machine Learning Frameworks: TensorFlow, PyTorch, HuggingFace Transformers, spaCy, NLTK, Kaldi ASR, Detectron2, Tesseract, CRAFT, MMDetection3D, MMCV` • `Machine Learning and Data Tools: Sagemaker, Redis Vector Search, Spark/PySpark` • `Programming Languages: R, Python` • `Databases: PostgreSQL, MySQL` • `Tools: GIT, Jenkins • Audio Processing: pydub, pyannote.audio`
+> # **Fábio Sena**  
+> [fabio.cancio.sena@gmail.com](mailto:fabio.cancio.sena@gmail.com)  
++55 61 992015000  
+<https://linkedin.com/in/fabio-sena-mlengineer>  
 
 
----
+> # **Summary** 
+> Experienced Machine Learning Engineer with expertise in building scalable and highly available models in production using cloud architecture and advanced ML techniques. Holds an MBA in Big Data and Data Science and a Bachelor's in Computer Science, bringing strong skills in classical ML, deep learning, computer vision, and NLP. Proficient in Python, AWS Cloud, and popular ML frameworks such as TensorFlow, PyTorch, Scikit-learn, Detectron2, and HuggingFace Transformers. Demonstrated success in delivering projects in image deduplication, batch inference, transfer learning, audio/speech processing, predictive modeling, and recommender systems, as well as end-to-end NLP pipelines. Fluent in English and Portuguese, constantly seeking to expand my knowledge and stay up-to-date with the latest technologies. Seeking to make a positive impact as a Machine Learning Engineer in a leading organization.
 
-# Experience 
+> # **Languages**
+> - Fluent English
+> - Native Portuguese
+> - Advanced Spanish 
 
+> # **Skills**
+> - Proficient in Python and experienced in ML frameworks such as TensorFlow, PyTorch, and Scikit-learn
+> - Expertise in cloud computing, specifically AWS Cloud Platform
+> - Strong knowledge in deep learning and computer vision
+> - Hands-on experience in NLP and natural language processing techniques
+> - Strong understanding of data structures, algorithms, and software engineering best practices
+> - Proficient in SQL and NoSQL databases
+> - Experience in deploying ML models in production environments
+> - Strong data science and data analysis methodologies knowledge
+> - Skilled in working with large datasets and distributed systems
+> - Excellent communication and collaboration skills, with the ability to work effectively in cross-functional teams.
 
-#### Appen <br> Machine Learning Engineer
-> *August 2020 - Present* 
-> *Campinas, Sao Paulo, Brazil*
-- Develop scalable machine learning models using microservices architecture, Docker containers, Tensorflow and Pytorch on AWS for computer vision and natural language processing domains
-- *Technologies*: `Python`, `Docker`, `Apache Kafka`, `Amazon S3`, `Tensorflow`, `Pytorch`, `ONNX`, `GIT`, `Jenkins`
+> # **Experience** 
 
-#### behup.io <br> Machine Learning Engineer 
-> *July 2017 - July 2020* 
-> *São Paulo Area, Brazil*
-- Led the communication strategy, helping employees prioritize projects, facilitating collaboration, supporting career development. 
-- Participated as a member of the board of directors, leadership, technology  and product company's groups, helping in planning and development of new 
-products using Design Thinking, LEAN, Scrum, Artificial Intelligence and Neurosciences 
-- Designed surveys and applied advanced business analytics to build predictive models using machine learning pipelines 
-- Created the alexandria.choices, a suite of 6 products that aims to understand consumer buying behavior and product pricing strategy for various products 
-and markets, using alternative techniques to traditional choice modeling based on large data samples and modern machine learning models 
-- Create alexandria.views, a product to evaluate the effectiveness of video ads for before initiating campaigns using data science and neurosciences 
-concepts to evaluate ad remembrance index, message retention, and associated emotion 
-- Creating alexandria.voices product that helps understand consumers opinions from videos and audios using thousands of samples to provide 
-automated insights in just a few hours using NLP, deep learning and other modeling techniques 
-- Created a complete machine learning pipeline that integrates with all company's products using microservices 
-- I led the team to build the company's Data Lake 
-- I defined the data governance, management and ownership frameworks that will ensure data quality and privacy 
-- Led the team to develop data products and predictive models based on pool and social media data 
-- Worked with the company executives on prioritization, budget definition, and execution of related business and technology initiatives for company internationalization and fundraising for new projects 
+> **Machine Learning Engineer -** Novatics - Aug 2020 - Present (2 years 6 months) 
+> - Designed and implemented ML solutions for Appen, a data labeling company, including
+>   - Image deduplication for face, document, and full-body using AWS SageMaker, DynamoDB, and Redis Vector Search
+>   - Batch inference using AWS Sagemaker, Kafka, AWS EventBridge, AWS SNS and SQS
+>   - Trainable model using transfer learning for custom client data on AWS Sagemaker
+>   - Stream-based real-time ML architecture using Apache Kafka
+> - Built a dashboard using Mode Analytics to report ML model usage by projects, clients, and periodicity
+> - Developed computer vision models for face detection and blurring, license plate detection and blurring, box transcribing words, car object detection from point cloud LiDAR data, and label bounding boxes in street scene images, among others
+> - Implemented audio/speech models for segmenting audio into speech, music, noise, and silence, and speaker diarization.
 
-#### behup.io <br> Data Scientist 
-> April 2016 - June 2017 <br>
-> Brasília Area, Brazil 
-- Developed big data products using Hadoop, Spark, Elastic Search, MongoDB, and Apache Drill. 
-- Built machine learning models for predictions and insights 
+> **Machine Learning Engineer -** behup - Apr 2016 - Jul 2020 (4 years 3 month) 
+> - Developed the alexandria.choices, a suite of 6 products to understand consumer buying behavior and product pricing strategy using alternative choice modeling techniques and large data samples.
+> - Built alexandria.views to evaluate video ad's effectiveness using data science and neurosciences.
+> - Created"alexandria.voices to automatically understand consumer opinions from videos and audio using speech-to-text and Natural Language Processing
+> - Applied Natural Language Processing techniques such as sentiment analysis, named entity recognition, summarization, topic modeling, text classification, keyword extraction, lemmatization, and stemming.
 
----
+> **Machine Learning Engineer -** Luiza AI - Nov 2017 - Jul 2018 (9 months) 
+> - Designed and implemented an end-to-end ML pipeline for Luiza.ai, including
+>   - Credit default risk prediction system using XGBoost and contract information + client psychological profile.
+>   - Customer recommender system using cluster analysis of social media behavior (location, gender, posts, and web interactions) with the RecommenderLab R library.
+> - Demonstrated expertise in ML modeling and implementation, and knowledge of R libraries.
 
-#### Luiza AI <br> Machine Learning Engineer 
-> November 2017 - July 2018 <br> 
-> Edmonton, Alberta, Canada 
-- Developed an end-to-end machine learning pipeline for Luiza.ai. 
-- Devekoped credit default risk based on contract information and back the client’s psychological profile using XBoost algorithm.
-- Developed a recommender system based on clusters of customers with similar behaviour on social media using, location, gender, posts and interactions on specific web pages. The solution used RecommenderLab R library. [http://www.luiza.ai/]
+> # **Projects**
+> - Message-Based ML Architecture: Implemented a scalable and trainable message-based ML architecture using AWS SageMaker, Kafka, AWS EventBridge, SNS, SQS, and Batch Transformer.
+> - Computer Vision: Developed cutting-edge computer vision models for image deduplication, including face detection and blurring, license plate detection and blurring, transcribing text from images, car object detection from LiDAR data, label bounding boxes in street scene images, and more.
+> - Audio/Speech: Designed and implemented models for audio segmentation and speaker diarization.
+> - Business Analytics: Used advanced business analytics to create predictive models through survey design.
+> - Natural Language Processing: 
+>   - Built a product to automatically understand consumer opinions from audio using speech-to-text and a combination of NLP techniques.
+>   - Built a natural language processing pipeline to extract valuable information from legal case files in PDF format. Loaded the extracted text into a MongoDB NoSQL database for efficient storage and retrieval. Generated document vectors for each file to enable effective clustering and organization. Grouped related files into hierarchical clusters, improving the efficiency and accuracy of the judge's work.
+> - Recommender System: Designed a customer-centric recommender system using cluster analysis and the R library RecommenderLab.
+> - Credit Default Risk Prediction: Built an end-to-end pipeline using XGBoost to predict credit default risk.
 
----
-
-# Education
-
-#### IGTI (2016 - 2017) <br> Master's degree, Data Science, Machine Learning and Big Data
-#### DataCamp  (2016 - 2017) <br> Specialization, Data Science and Machine Learning 
-#### Centro Universitário Euroamericano (2000 - 2004) <br> Bachelor's degree, Bachelor's Degree in Information Systems ·  
-#### Johns Hopkins (2018 - 2018) <br> Specialization, Data Science Management 
-
----
-
-# Other Experiences 
-
-#### SONDA Brasil <br> Oracle Middleware Architect 
-*August 2014 - March 2016 <br> Brasília Area, Brazil*
-- Developed the audit system that met the criteria for reducing the auto industry's production taxes.
-- Installed and configured the infrastructure of WebLogic servers for BPM, SOA, Web Center and BI Oracle Products
-- Implemented the authentication and authorization for system access using Digital Certification eCPF and eCNPJ - ICP-Brasil in WebLogic and ADF platform.
-
----
-
-#### CDS - Condomínio de Soluções <br> Oracle Middleware Architect
-> November 2013 - August 2014 <br>
-> Brasília Area, Brazil 
-- Led tech team and develop BPM and SOA solutions for the The State Institute of Environment of Rio de Janeiro (INEA - RJ) , Secretariat of Management and Planning of Goiás State (SEGPLAN - GO) and São Paulo. The process automation significantly reduced the costs and time of the activities. 
-
----
-
-#### ITS - Integração Total de Soluções 
-#### Software Architect 
-> January 2013 - October 2013 <br>
-> Brasília Area, Brazil 
-- Developed an IoT product that integrated RFID and inhouse asset control systems to automated assets tracking for Sabin Lab , Atlas lifts and Martins 
-Carrier 
-
----
-
-#### Teletronic Soluções Inteligentes
-#### Software Architect 
-> July 2011 - December 2012 <br>
-> Brasília Area, Brazil 
-- Developed an IoT product that integrated video streaming and RFID to track assets for the Federal District Regional Electoral Court and for Coca-Cola de 
-Recife Coca-Cola Factory and that automated acquisition, loan, maintenance, inventory and disposal of assets 
-Organización de los Estados Americanos Software Architect February 2010 - December 2012 (2 years 11 months) Brasília Area, Brazil 
-- Modeled the business process for Unified College Entrance Examination System (SiSU), University for All Program (ProUni) and Higher Education Student Fund (FIES) using BPMN for the Brazilian Ministry of Education 
-- Designed the architecture of the systems and led the technical team 
-
----
-
-#### Universidade de Brasília
-#### Researcher
-> February 2008 - January 2010 <br> 
-> Brasília Area, Brazil 
-- Designed the architecture of the software for managing Brazilian interstate transportation 
-- Academic research and implementation of POC using agents systems on an embedded platform 
-
----
-
-#### Foton 
-#### Tech Leader 
-> April 2008 - March 2009 <br> 
-> Brasília Area, Brazil and Belo Horizonte Area, Brazil 
-- Integrated APEX Brasil systems using an SOA platform 
-- Integrated IPSEMG (Institute of Social Security of Minas Gerais State Government ) using an SOA platform 
-
----
-
-#### AgênciaClick 
-#### Product Owner 
-> December 2004 - January 2008 (3 years 2 months) 
-> Brasília, Federal District, Brazil 
-- Led of the SISAc and SIREf project team for SECOM and CAIXA
-priorities, scope, funding, and schedule; ensures that the product backlog is 
-visible, transparent, and clear. 
-
----
-
-#### Globalweb Corp
-#### Java Instructor
-> January 2000 - December 2005 <br>
-> Brasília, Federal District, Brazil 
-Official Oracle Java SE and J2EE Instructor. Courses taught in various classes of Java SE, J2EE Design Patterns, EJB, Web, Distributed Objects 
-and Network, Java Certification Workshop, OOAD and UML, Software Requirements, and RUP. 
-
----
-
-#### SONDA 
-#### Java Architect
-> January 1998 - February 2002 <br> 
-> Brasília, Federal District, Brazil 
-- Participated in several projects for the Federal Government, including some agencies such as MS, Brazilian Post Office, TSE, TCU, ASBACE, and CNA. 
-Development of Proofs of Concepts. Support for development teams.
-- Lead CADSUS project for Health Minister. 
-- Developed a persistence frameworks, Web, Components, and code generators for productivity in the software factory. 
-
----
-
-#### Brazilian Army
-#### Software Architect 
-> February 1993 - March 1999 <br> 
-> Brasília, Federal District, Brazil 
-- Defined the software architecture, developed of software using Oracle platforms like Oracle Designer, Web with PL/SQL, Forms, Reports, and desktop apps using Delphi 5. 
-
-
-
-<!--
-
-**fabio-cancio-sena/fabio-cancio-sena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 👋
--->
+> # **Education**
+> - MBA in Data Science, Machine Learning, and Big Data - IGTI - 2016 - 2017
+> - Bachelor's degree, Bachelor's Degree in Information Systems - UniEuro - 2000 - 2004 
