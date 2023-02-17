@@ -3,7 +3,15 @@ Email: fabio.cancio.sena@gmail.com | Phone: +55 61 992015000
 LinkedIn: https://linkedin.com/in/fabio-sena-mlengineer
 
 ## Summary
-As an experienced Machine Learning Engineer, I have a proven track record of delivering scalable and highly available ML models in production using cloud architecture and advanced techniques. My strong background in classical ML, deep learning, computer vision, and NLP combined with my proficiency in Python, AWS Cloud, and frameworks such as TensorFlow, PyTorch, Scikit-learn, Detectron2, and HuggingFace Transformers have led to successful project delivery in image deduplication, batch inference, transfer learning, audio/speech processing, predictive modeling, recommender systems, and end-to-end NLP pipelines. I hold an MBA in Big Data and Data Science and a Bachelor's degree in Computer Science, speak fluent English and Portuguese, and am always seeking to expand my knowledge and stay up-to-date with the latest technologies. I am excited to bring my skills and experience to make a positive impact as a Machine Learning Engineer in a leading organization.
+As an experienced Machine Learning Engineer, I have a proven track record of delivering scalable and highly available ML models in production using cloud architecture and advanced techniques. My strong background in classical ML, deep learning, computer vision, and NLP combined with my proficiency in Python, AWS Cloud, and frameworks such as TensorFlow, PyTorch, Scikit-learn, Detectron2, and HuggingFace Transformers have led to successful project delivery in image deduplication, batch inference, transfer learning, audio/speech processing, predictive modeling, recommender systems, and end-to-end NLP pipelines. I hold an MBA in Big Data and Data Science and a Bachelor's degree in Computer Science, speak fluent English and Portuguese, and am always seeking to expand my knowledge and stay up-to-date with the latest technologies. I am excited to bring my skills and experience to make a positive impact as a Machine Learning Engineer in a leading organization.  
+
+- Experienced Machine Learning Engineer with a track record of delivering scalable and highly available ML models using cloud architecture and advanced techniques
+- Strong background in classical ML, deep learning, computer vision, and NLP
+- Proficient in Python, AWS Cloud, and machine learning frameworks including TensorFlow, PyTorch, Scikit-learn, Detectron2, and HuggingFace Transformers
+- Successfully delivered projects in various areas, including image processing, speech recognition, predictive modeling, and recommender systems
+- MBA in Big Data and Data Science, Bachelor's degree in Computer Science
+- Fluent in English and Portuguese, always seeking to expand knowledge and stay up-to-date with the latest technologies
+Eager to make a positive impact as a Machine Learning Engineer in a leading organization
 
 ## Skills
 - Machine Learning Frameworks: Expertise in machine learning frameworks including TensorFlow, PyTorch, Scikit-learn, Detectron2, and HuggingFace Transformers. - Proven ability to deliver scalable and highly available ML models in production environments.
