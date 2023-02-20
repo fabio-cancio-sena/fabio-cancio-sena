@@ -9,7 +9,7 @@ As a Machine Learning Engineer with 7 years of experience, an MBA in Data Scienc
 - Proficient in Python, Apache Spark, TensorFlow, PyTorch, Scikit-learn, sciPy, NLTK, Gensim and Hugging Face Transformers
 - Deep learning, computer vision, recommender systems, and natural language processing
 - Experience with cloud engineering best practices and AWS services such as SageMaker, EventBridge, Lambda, Kafka, SQS and SNS
-- Designing machine learning systems for scalability and reliability
+- Designing ML systems for scalability, efficiency, reliability, performance, and cost optimization, enabling seamless integration of ML models and data pipelines, while considering performance optimization and easy maintenance.
 - Deploying machine learning models in production environments using Docker, Kubernetes, AWS ECR, ECS, and EKS
 - Knowledge of NoSQL databases such as Redis and MongoDB, and distributed databases such as DynamoDB
 - Familiarity with version control using Git and continuous integration/continuous delivery (CI/CD) pipelines using Jenkins
