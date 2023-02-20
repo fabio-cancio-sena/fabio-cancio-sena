@@ -3,18 +3,17 @@ Email: fabio.cancio.sena@gmail.com | Phone: +55 61 992015000
 LinkedIn: https://linkedin.com/in/fabio-sena-mlengineer
 
 ## Summary
-As an experienced Machine Learning Engineer with a strong background in classical ML, deep learning, computer vision, and NLP, I have a proven track record of delivering scalable and highly available ML models using cloud architecture and advanced techniques. I am proficient in Python, AWS Cloud, and machine learning frameworks such as TensorFlow, PyTorch, Scikit-learn, Detectron2, and HuggingFace Transformers. I have successfully delivered projects in various areas, including image processing, speech recognition, predictive modeling, and recommender systems. I have an MBA in Data Science and BigData.
+As a Machine Learning Engineer with 7 years of experience, an MBA in Data Science, and a Bachelor's degree in Computer Science, I possess skills in AWS Cloud, machine learning modeling, and machine learning system design. I have successfully delivered projects across various domains, including computer vision for autonomous vehicles, image deduplication, audio/speech segmentation and diarization, and end-to-end NLP pipelines. I am seeking a challenging position to apply my expertise in building highly available and scalable models and driving innovation to deliver measurable business value.
 
 ## Skills
-- Machine Learning Frameworks: TensorFlow, PyTorch, Scikit-learn, Detectron2, and HuggingFace Transformers. Proven ability to deliver scalable and highly available ML models in production using cloud architecture and advanced techniques.
-- Cloud Computing: Proficient in AWS Cloud Platform, with experience deploying ML models in production using cloud architecture and advanced techniques.
-- Deep Learning and Computer Vision: Strong knowledge and experience in designing and building computer vision models for face detection, blurring, license plate detection, text transcription, car object detection from LiDAR data, and label bounding boxes in street scene images.
-- Natural Language Processing: Hands-on experience in NLP and end-to-end NLP pipelines, including speech-to-text.
-- Data Structures and Algorithms: Strong understanding of data structures, algorithms, and software engineering best practices, with experience in distributed systems.
-- Databases: Proficient in SQL and NoSQL databases, with experience working with large datasets.
-- Data Science and Analysis Methodologies: Strong knowledge of data science and data analysis methodologies, including advanced business analytics for creating predictive models.
-- Collaborative and Cross-Functional Teamwork: Excellent communication and collaboration skills, with a proven ability to lead the development of ML solutions and implement end-to-end ML pipelines.
-- Git, Docker, Kubernetes: Experience in version control using Git, containerization using Docker, and managing and scaling containerized machine learning applications using Kubernetes.
+- Proficient in Python, Apache Spark, TensorFlow, PyTorch, Scikit-learn, sciPy, NLTK, Gensim and Hugging Face Transformers
+- Deep learning, computer vision, recommender systems, and natural language processing
+- Experience with cloud engineering best practices and AWS services such as SageMaker, EventBridge, Lambda, Kafka, SQS and SNS
+- Designing machine learning systems for scalability and reliability
+- Deploying machine learning models in production environments using Docker, Kubernetes, AWS ECR, ECS, and EKS
+- Knowledge of NoSQL databases such as Redis and MongoDB, and distributed databases such as DynamoDB
+- Familiarity with version control using Git and continuous integration/continuous delivery (CI/CD) pipelines using Jenkins
+- Experience collaborating remotely with teams across different countries and cultures
 
 ## Experience
 ### Machine Learning Engineer, Novatics, Aug 2020 - Present
