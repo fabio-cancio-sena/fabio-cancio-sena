@@ -4,10 +4,10 @@ LinkedIn: https://linkedin.com/in/fabio-sena-mlengineer
 
 ## Summary
 - Machine Learning Engineer with 7 years of experience.
-- Expertise in AWS Cloud, machine learning system design and modeling.
+- Expertise in AWS Cloud, machine learning system design, and modeling.
+- Successfully delivered projects in various domains, such as computer vision, image deduplication, audio/speech segmentation and diarization, and end-to-end NLP pipelines.
 - Focus on designing, developing, and deploying machine learning models that demonstrate performance, scalability, and reliability.
 - MBA in Data Science and a Bachelor's degree in Computer Science, with a strong background in software engineering, programming, and mathematics.
-- Successfully delivered projects in various domains, such as computer vision, image deduplication, audio/speech segmentation and diarization, and end-to-end NLP pipelines.
 
 ## Skills
 - Proficient in Python, Apache Spark, TensorFlow, PyTorch, Scikit-learn, sciPy, NLTK, Gensim and Hugging Face Transformers
