@@ -3,7 +3,7 @@ Email: fabio.cancio.sena@gmail.com | Phone: +55 61 992015000
 LinkedIn: https://linkedin.com/in/fabio-sena-mlengineer
 
 ## Summary
-Machine Learning Engineer with 7 years of experience. Expertise in AWS Cloud, machine learning system design, and modeling. Successfully delivered projects in various domains, such as computer vision, image deduplication, audio/speech segmentation and diarization, and end-to-end NLP pipelines. Focus on designing, developing, and deploying machine learning models that demonstrate performance, scalability, and reliability. MBA in Data Science and a Bachelor's degree in Computer Science, with a strong background in software engineering, programming, and mathematics.
+Experienced Machine Learning Engineer with over 7 years of experience and a strong track record of delivering successful ML projects. Focus on delivering reliable and scalable ML models in the cloud. MBA in Data Science and Big Data and a Bachelor's degree in Information Systems. Skilled in ML modeling, deep learning, AWS cloud, PyTorch, and ML system design. Proficient in computer vision models for object detection and classification with Yolo, SSD, Faster R-CNN, Detectron2, CenterTrack video for object tracking, video blurring for PII, as well as document and faces deduplication using embeddings and Vector Search Engine. Knowledgeable about NLP libraries such as Hugging Face Transformers, Gensim, and NLTK. Adaptable problem solver with excellent communication skills and natural leadership abilities, capable of working effectively in interdisciplinary teams.
 
 ## Skills
 - Proficient in Python, Apache Spark, TensorFlow, PyTorch, Scikit-learn, sciPy, NLTK, Gensim and Hugging Face Transformers
@@ -39,5 +39,7 @@ Machine Learning Engineer with 7 years of experience. Expertise in AWS Cloud, ma
 - Used advanced business analytics to create predictive models
 
 ## Education
-- MBA degree in Data Science, Machine Learning and Big Data - IGTI - Institute of Management in Information Technology - 2016 - 2017
+- MBA in Data Science and Big Data - IGTI - Institute of Management in Information Technology - 2016 - 2017
+  - Focused on management, big data, statistics, data science, and machine learning. 
+  - Relevant coursework includes infrastructure and cloud computing, big data fundamentals, data modeling with Hadoop, statistical analysis, and machine learning applied to big data.
 - Bachelor's degree, Bachelor's Degree in Information Systems - UniEuro - Euroamerican University - 2000 - 2004 
