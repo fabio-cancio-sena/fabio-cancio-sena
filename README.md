@@ -3,17 +3,16 @@ Email: fabio.cancio.sena@gmail.com | Phone: +55 61 992015000
 LinkedIn: https://linkedin.com/in/fabio-sena-mlengineer
 
 ## Summary
-Experienced Machine Learning Engineer with over 7 years of experience and a strong track record of delivering successful ML projects. Focus on delivering reliable and scalable ML models in the cloud. MBA in Data Science and Big Data and a Bachelor's degree in Information Systems. Skilled in ML modeling, deep learning, AWS cloud, PyTorch, and ML system design. Proficient in computer vision models for object detection and classification with Yolo, SSD, Faster R-CNN, Detectron2, CenterTrack video for object tracking, video blurring for PII, as well as document and faces deduplication using embeddings and Vector Search Engine. Knowledgeable about NLP libraries such as Hugging Face Transformers, Gensim, and NLTK. Adaptable problem solver with excellent communication skills and natural leadership abilities, capable of working effectively in interdisciplinary teams.
+Experienced Machine Learning Engineer with over 7 years of proven success delivering reliable and scalable ML models in the cloud. With an MBA in Data Science and Big Data and a Bachelor's degree in Information Systems, I have honed my skills in ML modeling, deep learning, AWS cloud, PyTorch, and ML system design. Proficient in computer vision models for object detection and classification, NLP libraries such as Hugging Face Transformers, Gensim, and NLTK. I have a natural aptitude for problem-solving and excellent communication skills, making me an adaptable leader capable of working effectively in interdisciplinary teams.
 
 ## Skills
-- Proficient in Python, Apache Spark, TensorFlow, PyTorch, Scikit-learn, sciPy, NLTK, Gensim and Hugging Face Transformers
-- Deep learning, computer vision, recommender systems, and natural language processing
-- Experience with cloud engineering best practices and AWS services such as SageMaker, EventBridge, Lambda, Kafka, SQS and SNS
-- Designing ML systems for scalability, efficiency, reliability, performance, and cost optimization, enabling seamless integration of ML models and data pipelines, while considering performance optimization and easy maintenance.
-- Deploying machine learning models in production environments using Docker, Kubernetes, AWS ECR, ECS, and EKS
-- Knowledge of NoSQL databases such as Redis and MongoDB, and distributed databases such as DynamoDB
-- Familiarity with version control using Git and continuous integration/continuous delivery (CI/CD) pipelines using Jenkins
-- Experience collaborating remotely with teams across different countries and cultures
+- **Machine Learning**: Python, Apache Spark, TensorFlow, PyTorch, Scikit-learn, sciPy, NLTK, Gensim, Hugging Face Transformers
+- **Computer Vision**: Object detection and classification (Yolo, SSD, Faster R-CNN, Detectron2), Video object tracking (CenterTrack), Video blurring for PII, Document and faces deduplication using embeddings and Vector Search Engine
+- **Natural Language Processing**: NLP libraries (Hugging Face Transformers, Gensim, NLTK)
+- **Cloud**: AWS services (SageMaker, EventBridge, Lambda, Kafka, SQS, SNS), designing ML systems for scalability, efficiency, reliability, performance, and cost optimization, deploying ML models in production environments using Docker, Kubernetes, AWS ECR, ECS, and EKS
+- **Databases**: NoSQL databases (Redis, MongoDB), distributed databases (DynamoDB)
+- **Software Engineering**: Version control (Git), CI/CD pipelines (Jenkins), end-to-end ML pipelines, remote collaboration in multicultural teams
+- **Other Skills**: Audio/Speech processing, Speaker diarization, Video ad effectiveness evaluation using data science and neurosciences, Alternative choice modeling techniques and large data samples, Predictive modeling using advanced business analytics, Customer-centric recommender systems using R library RecommenderLab.
 
 ## Experience
 ### Machine Learning Engineer, Novatics, Aug 2020 - Present
