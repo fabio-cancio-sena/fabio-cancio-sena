@@ -3,7 +3,7 @@ Email: fabio.cancio.sena@gmail.com | Phone: +55 61 992015000
 LinkedIn: https://linkedin.com/in/fabio-sena-mlengineer
 
 ## Summary
-Experienced Machine Learning Engineer with over 7 years of proven success delivering reliable and scalable ML models in the cloud. With an MBA in Data Science and Big Data and a Bachelor's degree in Information Systems, I have honed my skills in ML modeling, deep learning, AWS cloud, PyTorch, and ML system design. Proficient in computer vision models for object detection and classification, NLP libraries such as Hugging Face Transformers, Gensim, and NLTK. I have a natural aptitude for problem-solving and excellent communication skills, making me an adaptable leader capable of working effectively in interdisciplinary teams.
+Experienced Machine Learning Engineer with over 7 years of proven success delivering scalable, reliable, and maintainable machine learning models in AWS. With an MBA in Data Science and Big Data and a Bachelor's degree in Information Systems, I have honed my skills in ML modeling, deep learning, AWS cloud, PyTorch, and ML system design. Proficient in computer vision models for object detection and classification, NLP libraries such as Hugging Face Transformers, Gensim, and NLTK. I have a natural aptitude for problem-solving and excellent communication skills, making me an adaptable leader capable of working effectively in interdisciplinary teams.
 
 ## Skills
 - **Machine Learning**: Python, Apache Spark, TensorFlow, PyTorch, Scikit-learn, sciPy, NLTK, Gensim, Hugging Face Transformers
