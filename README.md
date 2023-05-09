@@ -7,7 +7,7 @@ Summary
 Experienced Machine Learning Engineer with over 7 years of proven success delivering scalable, reliable, and maintainable machine learning models in AWS. Proficient in Python, Docker, Kubernetes, ML modeling, NLP, CV, Recommender Systems, MLOps and Data Engineering. Adaptable leader with excellent communication skills, capable of working effectively in interdisciplinary teams.
 
 ## Strengths
-- Strong experience in developing and **deploying machine learning models in AWS, as well as proficiency in popular ML libraries such as TensorFlow, PyTorch, and Scikit-learn.
+- Strong experience in developing and deploying machine learning models in AWS, as well as proficiency in popular ML libraries such as TensorFlow, PyTorch, and Scikit-learn.
 - Strong knowledge in computer vision models for object detection and classification, as well as natural language processing techniques and libraries.
 - Proficient in cloud services and ML system design, including experience in designing ML systems for scalability, reliability, efficiency, performance, and cost optimization.
 - Strong experience in software engineering practices such as version control, CI/CD pipelines, and end-to-end ML pipelines.
