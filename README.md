@@ -3,24 +3,32 @@ Email: fabio.cancio.sena@gmail.com | Phone: +55 61 992015000
 LinkedIn: https://linkedin.com/in/fabio-sena-mlengineer
 
 ## Summary
-Summary
-Experienced Machine Learning Engineer with over 7 years of proven success delivering scalable, reliable, and maintainable machine learning models in AWS. Proficient in Python, Docker, Kubernetes, ML modeling, NLP, CV, Recommender Systems, MLOps and Data Engineering. Adaptable leader with excellent communication skills, capable of working effectively in interdisciplinary teams.
+Hey there! I'm Fábio Sena, a Senior Machine Learning Engineer at NuBank, passionate about tackling intriguing machine learning problems. With seven years of experience, I've explored the lesstraveled paths, collaborating with tech industry leaders to deliver innovative and game-changing solutions.
 
-## Strengths
-- Strong experience in developing and deploying machine learning models in AWS, as well as proficiency in popular ML libraries such as TensorFlow, PyTorch, and Scikit-learn.
-- Strong knowledge in computer vision models for object detection and classification, as well as natural language processing techniques and libraries.
-- Proficient in cloud services and ML system design, including experience in designing ML systems for scalability, reliability, efficiency, performance, and cost optimization.
-- Strong experience in software engineering practices such as version control, CI/CD pipelines, and end-to-end ML pipelines.
-- Experience in working in multicultural teams, and excellent communication skills.
+My expertise lies in weaving together machine learning, cloud computing, algorithms, and data structures to build highly efficient
+and scalable models. At Appen, I successfully deployed nearly 30 models in production, while also contributing to the design and migration of ML cloud architecture, enhancing scalability and efficiency. Additionally, I possess expertise in computer vision and natural language processing.
+
+During my time at behup, I designed a robust cloud data architecture utilizing Spark and Elasticsearch. This enabled efficient management, processing, and searchability of millions of data points, providing valuable data-driven insights. Leveraging classical machine learning and NLP techniques, I extracted valuable information from textual data, facilitating decision-making.
+
+My background in software architecture enables me to envision the bigger picture and build robust, scalable systems. By fitting ML solutions seamlessly into broader tech frameworks, I ensure smooth and efficient outcomes.
+
+Apart from my practical experience, I hold an MBA in Data Science and Big Data, enhancing my planning, cloud computing,
+communication, and advanced data analytics skills. My capstone project on CV Object Detection showcased cutting-edge computer
+vision techniques.
+
+As an advocate of lifelong learning, I stay updated with the latest advancements in the field. Fluent in English, Portuguese, and Spanish, I thrive in collaborating with multicultural teams to deliver impressive results.
+
+Creating scalable and reliable machine learning models that make a real difference fuels my passion. If you have a project or an idea you'd like to discuss, I'm eager to listen. Let's connect and leave our mark in the world of machine learning together!
 
 ## Skills
-- **Machine Learning**: Python, Apache Spark, TensorFlow, PyTorch, Scikit-learn, sciPy, NLTK, Gensim, Hugging Face Transformers
-- **Computer Vision**: Object detection and classification (Yolo, SSD, Faster R-CNN, Detectron2), Video object tracking (CenterTrack), Video blurring for PII, Document and faces deduplication using embeddings and Vector Search Engine
-- **Natural Language Processing**: NLP libraries (Hugging Face Transformers, Gensim, NLTK)
-- **Cloud**: AWS services (SageMaker, EventBridge, Lambda, Kafka, SQS, SNS), designing ML systems for scalability, efficiency, reliability, performance, and cost optimization, deploying ML models in production environments using Docker, Kubernetes, AWS ECR, ECS, and EKS
-- **Databases**: NoSQL databases (Redis, MongoDB), distributed databases (DynamoDB)
-- **Software Engineering**: Version control (Git), CI/CD pipelines (Jenkins), end-to-end ML pipelines, remote collaboration in multicultural teams
-- **Other Skills**: Audio/Speech processing, Speaker diarization, Video ad effectiveness evaluation using data science and neurosciences, Alternative choice modeling techniques and large data samples, Predictive modeling using advanced business analytics, Customer-centric recommender systems using R library RecommenderLab.
+
+- **Programming Languages**: Python, SQL
+- **Cloud Computing and Big Data**: Amazon Web Services (AWS), AWS SageMaker, Cloud Computing, Data Engineering, Apache Spark, Hadoop, Distributed Computing
+- **Machine Learning Libraries and Techniques: PyTorch, TensorFlow, Scikit-Learn, Natural Language Processing, Reinforcement Learning, Unsupervised Learning, Convolutional Neural Networks (CNN), Generative Adversarial Networks (GANs), Predictive Modeling
+- **Deep Learning and Natural Language Processing Models**: BERT, GPT-3
+- **MLOps and CI/CD**: Docker, Kubeflow, Machine Learning Pipeline, Continuous Integration and Continuous Delivery (CI/CD), Airflow, Kubernetes, MLOps
+- **Advanced and Emerging Fields**: Differential Privacy, Federated Learning, LlamaIndex, LangChain
+- **Soft Skills**: Effective Communication, Problem Solving, Critical Thinking, Project Management, Teamwork/Collaboration, Adaptability, Emotional Intelligence
 
 ## Experience
 ### Machine Learning Engineer, Novatics, Aug 2020 - Present
