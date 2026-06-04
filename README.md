@@ -19,7 +19,17 @@ Most ML systems are built to *predict*. I build the layer that makes those syste
 
 - Co-designing **Caramelo**, Nubank's next-gen monitoring platform for models and policies (Scala · Spark), replacing a legacy system across a **500+ job estate**
 - Building agent-based on-call debugging tooling that cuts time-to-diagnosis for production ML incidents
-- Exploring **Agent Experience (AX)** as an information-architecture problem for AI-native platforms
+- Exploring **Agent Experience (AX)** as an information-architecture problem for AI-native platforms — and how observability/governance extend to multi-agent systems
+
+<!--### 📝 Selected writing & projects
+
+Replace the placeholders below with real links. Even 2–3 turns this README from a bio into proof. 
+
+- **Writing** — *[Add your first post here]* (e.g., "Observability for agentic systems", "AX as information architecture", "SRE for ML decisions")
+- **Open source** — *[Pin a repo here]* (e.g., an MCP server for observability, an agent-eval harness, a decision-lineage mini-library)
+- **Talks** — *[Add a talk/slides link here]*
+
+> 📌 Pin 3–6 repositories on your profile so visitors land on code, not just this card. -->
 
 ### 🧰 Tech I reach for
 
@@ -33,7 +43,8 @@ Most ML systems are built to *predict*. I build the layer that makes those syste
 
 - **Data & ML:** Apache Spark · Databricks · Delta Lake · Kubeflow · Dagster · MLflow · XGBoost
 - **Services & infra:** Clojure · Datomic · Kafka · Kubernetes · AWS SageMaker
-- **Themes:** MLOps · Distributed Systems · Model Governance · Observability · Causal Inference · LLM Agents · MCP
+- **Agentic & observability:** Model Context Protocol (MCP) · OpenTelemetry · LLM evaluation · tracing
+- **Themes:** MLOps · Distributed Systems · Model Governance · Observability · Causal Inference · LLM Agents
 
 ### ✍️ I write & think about
 
